@@ -22,3 +22,5 @@ This is just the back-end part of the movie recommendation system it covers the 
 9. urllib.request
 10. scikit-learn
 
+### VISUAL REPRESENTATION OF THE PRE PROCESSING PROCESS
+![](INFOGRAPHICS.png)
