@@ -24,3 +24,7 @@ This is just the back-end part of the movie recommendation system it covers the 
 
 ### VISUAL REPRESENTATION OF THE PRE PROCESSING PROCESS
 ![](INFOGRAPHICS.png)
+* All the steps we followed for the pre processing are mentioned in the respective .ipynb files.
+
+## CREDITS
+Special thanks to Mr Kishan Lal for the help through github and Mr Krish Naik for the amazing Youtube tutorial explaining this project.
